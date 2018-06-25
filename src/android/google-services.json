@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "457946739030",
+    "firebase_url": "https://safemove-f6043.firebaseio.com",
+    "project_id": "safemove-f6043",
+    "storage_bucket": "safemove-f6043.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457946739030:android:03c5b83310f10fa4",
+        "android_client_info": {
+          "package_name": "br.com.safemove"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457946739030-fo6o1fi2ekjji7pmf1bq626u65p5nkna.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFRCQeRm_3mbs4ouuAuM_4SZqEVLnQsew"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
